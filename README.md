@@ -11,7 +11,7 @@ pip install SpeechRecognition
 ```python
 text = r.recognize_google(audio, language='fa-IR')
 ```
-### Englesh
+### English
 ```python
 text = r.recognize_google(audio, language='en-US')
 ```
